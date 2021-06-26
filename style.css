@@ -1,0 +1,27 @@
+#backgroud{
+    height: 370px;
+    width: 600px;
+    position: relative;
+    background: url('background.jpg');
+}
+
+#ground{
+    position: absolute;
+    width: 597px;
+    height: 90px;
+    bottom: 0px;
+}
+
+#area{
+    position: relative;
+    height: 275px;
+    width: 597px;
+}
+
+
+#player{
+    height: 30px;
+    width: 20px;
+    position: absolute;
+    bottom: 0;
+}
